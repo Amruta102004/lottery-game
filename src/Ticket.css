@@ -1,0 +1,31 @@
+.Ticket {
+  border: 2px solid #f5a3b7;   /* soft pink */
+  border-radius: 16px;
+  width: 320px;
+  padding: 20px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.Ticket p {
+  margin: 0;
+  color: #ccc;
+}
+button {
+  margin-top: 20px;
+  padding: 12px 20px;
+  background-color: #111;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #222;
+}

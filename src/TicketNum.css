@@ -1,0 +1,10 @@
+.numbers {
+  display: flex;
+  gap: 5px;
+}
+
+.TicketNum {
+  font-size: 40px;
+  font-weight: bold;
+  color: #e6edf3;
+}
