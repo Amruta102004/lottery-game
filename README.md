@@ -74,5 +74,5 @@ src/
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="Screenshots/image.png" alt="Lottery Game Preview" width="700"/>
+  <img src="./src/Screenshots/image.png" alt="Lottery Game Preview" width="700"/>
 </p>
