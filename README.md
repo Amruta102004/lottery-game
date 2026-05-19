@@ -71,8 +71,8 @@ src/
 │── Ticket.css
 │── TicketNum.css
 ```
-## Screenshot
+## 📸 Screenshot
 
 <p align="center">
-  <img src="./Screenshots/image.png" alt="Lottery Game Preview" width="700"/>
+  <img src="Screenshots/image.png" alt="Lottery Game Preview" width="700"/>
 </p>
